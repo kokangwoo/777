@@ -1,2 +1,6 @@
-class 01 폴더입니다.
-여기는 첫째주 내용을 담았습니다. 
+# python
+
+# 링크달기
+[구글](http://google.com)   
+
+http://google.com   
